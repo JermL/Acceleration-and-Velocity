@@ -11,7 +11,7 @@ end
 t = 0:0.02:10;
 % Plot velocity vs time 
 plot(t, vel)
-xlabel('Time')
-ylabel('Velocity')
+xlabel('Time(s)')
+ylabel('Velocity(m/s)')
 title('Velocity vs Time')
 
